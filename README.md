@@ -1,4 +1,3 @@
-```markdown
 # 🛍️ YS Collections - React E-Commerce Web App
 
 YS Collections is a responsive and modern E-Commerce web application built using **React.js** & **Bootstrap**.  
@@ -49,7 +48,7 @@ src/
 
 ## 🔧 Installation & Setup
 
-```bash
+```
 # Clone the repository
 git clone https://github.com/YOUR-USERNAME/ys-collections.git
 
